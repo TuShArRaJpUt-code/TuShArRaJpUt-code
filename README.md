@@ -27,9 +27,10 @@ class MyApp {
 
 ## Who I Am
 
-I am a **Flutter App Developer** focused on building real-world mobile applications with practical use cases. I've worked on projects like an e-commerce app and structured data management systems, handling UI development, Firebase integration, and performance optimization.
+Hi, I'm Tushar Rajput, a Flutter Developer with hands-on experience building cross-platform mobile applications. During my internship at Dormly Tech Solutions, I contributed to developing real-world features using Flutter, Riverpod, and Firebase, with a focus on hostel booking and management modules. 
 
-My core skills are **Flutter, Python, and Firebase**, with a growing interest in **Machine Learning** — exploring how intelligent features can be woven into applications to improve user experience. I don't just learn technologies, I apply them to build working products.
+I enjoy building scalable, user-centric applications and continuously enhance my expertise in mobile development, data structures and algorithms, and backend technologies with Python and Django. I'm passionate about creating high-quality software and solving real-world problems through technology.
+
 
 ```
 🎓  AKTU — B.Tech CSDS

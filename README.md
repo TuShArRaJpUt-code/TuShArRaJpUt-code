@@ -6,7 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://tushar-portfolio-three-iota.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0175C2?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://tusharrajput-code.github.io/Portfolio/](https://tushar-portfolio-three-iota.vercel.app/))
 [![Resume](https://img.shields.io/badge/Resume-Download-13B9FD?style=for-the-badge&logo=readdotcv&logoColor=white)](https://tusharrajput-code.github.io/Portfolio/assets/TusharRajput_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-rajput-376bba291/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajput_tushar/)
